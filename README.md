@@ -35,7 +35,7 @@ The system allows businesses to efficiently manage products, customers, supplier
 - **Tables:** `products`, `categories`, `customers`, `suppliers`, `orders`, `users`, `vieworders`  
 > Import the `inventory_db.sql` file to create the database and tables.
 ## **ScreenShorts**
-<img src="screenshots/login.png" alt="Login Page" width="400">
+<img src="1.png" alt="Login Page" width="400">
 
 ## **Installation & Setup**
 
