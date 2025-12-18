@@ -36,6 +36,16 @@ The system allows businesses to efficiently manage products, customers, supplier
 > Import the `inventory_db.sql` file to create the database and tables.
 ## **ScreenShorts**
 <img src="1.png" alt="Login Page" width="400">
+<img src="2.png" alt="Login Page" width="400">
+<img src="3.png" alt="Login Page" width="400">
+<img src="4.png" alt="Login Page" width="400">
+<img src="5.png" alt="Login Page" width="400">
+<img src="8.png" alt="Login Page" width="400">
+<img src="7.png" alt="Login Page" width="400">
+
+
+
+
 
 ## **Installation & Setup**
 
