@@ -34,11 +34,13 @@ The system allows businesses to efficiently manage products, customers, supplier
 - **Database Name:** `inventory_db`  
 - **Tables:** `products`, `categories`, `customers`, `suppliers`, `orders`, `users`, `vieworders`  
 > Import the `inventory_db.sql` file to create the database and tables.
+## **ScreenShorts**
+<img src="screenshots/login.png" alt="Login Page" width="400">
 
 ## **Installation & Setup**
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/inventory-system.git
+   git clone (https://github.com/username/Inventory_management.git)
 
 2. Copy the project folder to your XAMPP `htdocs` directory.
 
@@ -50,7 +52,7 @@ The system allows businesses to efficiently manage products, customers, supplier
    * Import `inventory_db.sql`.
 
 5. Open your browser and go to:
-   http://localhost/inventory-system/
+   http://localhost/inventory_management/
 
 6. Login with default credentials:
    * **Username:** admin
